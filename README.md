@@ -4,8 +4,8 @@ TESLA: a Tool for automatic Earthquake low‐frequency Spectral Level estimAtion
 
 TESLA is designed to invert the P- and S-displacement spectra searching the optimal signal
 window to use for the spectral analysis. Using a signal window of fixed duration,
-although variable according to the earthquake magnitude, is not always the appropri-
-ate choice, especially when microseismicity is analyzed. TESLA performs three main
+although variable according to the earthquake magnitude, is not always the appropriate
+choice, especially when microseismicity is analyzed. TESLA performs three main
 tasks for both P and S phases: (1) a systematic exploration of several signal windows
 to use for the computation of displacement spectra, (2) the spectral analysis for all the
 selected signal windows, and (3) the evaluation of the best-displacement spectra
