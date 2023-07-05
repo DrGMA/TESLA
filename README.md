@@ -1,6 +1,6 @@
 # TESLA
 
-TESLA: a Tool for Automatic Earthquake Low‐Frequency Spectral Level estimAtion
+TESLA: a Tool for automatic Earthquake low‐frequency Spectral Level estimAtion
 
 TESLA is designed to invert the P- and S-displacement spectra searching the optimal signal
 window to use for the spectral analysis. Using a signal window of fixed duration,
