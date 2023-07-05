@@ -16,12 +16,12 @@ I'm sorry, but the package is under construction.
 Please, send me an email (guidomaria.adinolfi@unito.it) 
 if you want to be notified when the package will be available on GitHub.
 
+
 For more information see:
+
 "TESLA, A Tool for Automatic Earthquake Low‐Frequency Spectral Level Estimation:
 The Study of 2013 St. Gallen Earthquake Fault‐Plane Solutions"
 
 Guido Maria Adinolfi; Vincenzo Convertito; Raffaella De Matteis
-
-guidomaria.adinolfi@unito.it
 
 https://doi.org/10.1785/0220230033
