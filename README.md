@@ -22,6 +22,6 @@ For more information see:
 "TESLA, A Tool for Automatic Earthquake Low‐Frequency Spectral Level Estimation:
 The Study of 2013 St. Gallen Earthquake Fault‐Plane Solutions"
 
-Guido Maria Adinolfi; Vincenzo Convertito; Raffaella De Matteis
+Guido Maria Adinolfi, Vincenzo Convertito, Raffaella De Matteis
 
 https://doi.org/10.1785/0220230033
