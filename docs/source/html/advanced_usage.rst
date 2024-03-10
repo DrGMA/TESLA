@@ -24,7 +24,7 @@ When this option is utilized, the evaluation and classification of the spectra a
 
 .. warning::
 
-   When utilizing this function, it is strongly advised to carefully evaluate the results. The calculated spectrum may not accurately represent a theoretical spectrum because the free parameters (:math:`\Omega_0`,:math:`\F_c` and :math:`Q`) are not constrained and may not hold realistic values. Caution is recommended when operating TESLA in this mode, as the outcomes may significantly deviate from expected theoretical models of earthquake source spectrum.
+   When utilizing this function, it is strongly advised to carefully evaluate the results. The calculated spectrum may not accurately represent a theoretical spectrum because the free parameters (:math:`\Omega_0`, :math:`F_c` and :math:`Q`) are not constrained and may not hold realistic values. Caution is recommended when operating TESLA in this mode, as the outcomes may significantly deviate from expected theoretical models of earthquake source spectrum.
 
 **Advanced Usage Example**
 --------------------------
