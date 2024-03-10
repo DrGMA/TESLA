@@ -28,9 +28,7 @@ To download the TESLA package, you have two options:
 
    .. code-block:: bash
 
-      git clone https://github.com/yourusername/TESLA.git
-
-   Replace "yourusername" with your GitHub username or the owner of the TESLA repository.
+      git clone https://github.com/DrGMA/TESLA.git
 
 After downloading and extracting the repository or cloning it using Git, you can proceed with the installation steps provided in this manual.
 
