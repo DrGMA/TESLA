@@ -39,7 +39,7 @@ When using TESLA for your projects and research, please ensure to reference the 
 - Adinolfi, Guido Maria, Vincenzo Convertito, and Raffaella De Matteis. "TESLA, A Tool for Automatic Earthquake Low‐Frequency Spectral Level Estimation: The Study of 2013 St. Gallen Earthquake Fault‐Plane Solutions." Seismological Research Letters 94.5 (2023): 2441-2455. [DOI](https://doi.org/10.1785/0220230033)
 
 ## Version Information 📅
-- **Version:** 1.0.0
+- **Version:** 0.0.1
 - **Last Updated:** February 12, 2024
 - **Author:** Guido Maria Adinolfi
 
