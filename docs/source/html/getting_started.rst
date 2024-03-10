@@ -48,7 +48,7 @@ This method installs TESLA directly from the downloaded source directory, making
 .. code-block:: bash
 
    # Navigate to the directory containing the TESLA folder
-   cd path/to/tesla
+   cd path/to/TESLA
 
    # Install TESLA using pip
    pip install ./tesla
@@ -69,7 +69,7 @@ Isolating TESLA in a virtual environment prevents conflicts with other projects.
    source tesla/bin/activate
 
    # Install TESLA
-   cd path/to/tesla
+   cd path/to/TESLA
    pip install .
 
 **Option 3: Using Anaconda/Conda**
