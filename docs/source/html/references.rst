@@ -5,7 +5,7 @@ This section includes references to relevant papers and TESLA documentation.
 
 Ensure to reference the following citation when employing TESLA in your work:
 
-**Adinolfi, G. M., V. Convertito, and R. De Matteis (2023). TESLA, A Tool for Automatic Earthquake Low-Frequency Spectral Level Estimation: The Study of 2013 St. Gallen Earthquake Fault-Plane Solutions, Seismol. Res. Lett., 94(5), 2441-2455.** `doi:10.1785/0220230033 <doi: 10.1785/0220230033 >`_.
+**Adinolfi, G. M., V. Convertito, and R. De Matteis (2023). TESLA, A Tool for Automatic Earthquake Low-Frequency Spectral Level Estimation: The Study of 2013 St. Gallen Earthquake Fault-Plane Solutions, Seismol. Res. Lett., 94(5), 2441-2455.** `doi:10.1785/0220230033 <https://doi.org/10.1785/0220230033>`_.
 
 **Relevant Papers**
 -------------------
