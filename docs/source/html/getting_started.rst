@@ -59,7 +59,7 @@ Isolating TESLA in a virtual environment prevents conflicts with other projects.
 
 .. code-block:: bash
 
-   # Create a virtual environment named 'tesla_env'
+   # Create a virtual environment named 'tesla'
    python -m venv tesla
 
    # Activate the virtual environment
