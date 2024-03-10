@@ -17,7 +17,6 @@
 import os
 import sys
 import sphinx_rtd_theme
-import furo
 sys.path.insert(0, os.path.abspath('.'))
 sys.path.insert(0, os.path.abspath('./../../')) # needed to show docstrings via `automodules`
 
@@ -36,7 +35,7 @@ copyright = '2023, Guido Maria Adinolfi'
 author    = 'Guido Maria Adinolfi'
 
 # The short X.Y version.
-release = version = '1.0.0'  # Is set by calling `setup.py docs`
+release = version = '0.0.1'  # Is set by calling `setup.py docs`
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -101,7 +100,7 @@ latex_elements = {
 # documentation.
 html_theme_options = {
     'logo_only'             : False,
-    #'canonical_url'         : 'https://seisglitch.readthedocs.io/en/latest/index.html',
+    #'canonical_url'         : 'https://tesla.readthedocs.io/en/latest/index.html',
     'display_version'       : True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links'      :  False,
