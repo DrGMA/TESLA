@@ -23,7 +23,7 @@ The amplitude spectrum is modeled using a fitting operation based on the seismic
 
 TESLA selects the best spectra based on quality criteria, discarding those that do not meet certain criteria. The spectra are classified according to a cost function (CF), which considers MAPE and uncertainties of estimated parameters. The computed spectra are ordered based on ascending CF values, and TESLA selects spectra falling within the first quartile. A final selection can also be performed based on MAPE as a percentage value. The best result is chosen as the fitted source spectrum with the lowest CF value.
 
-For further details and visual representations, please refer to the original `manuscript <https://pubs.geoscienceworld.org/ssa/srl/article-abstract/94/5/2441/624404/TESLA-A-Tool-for-Automatic-Earthquake-Low?redirectedFrom=fulltext>_.
+For further details and visual representations, please refer to the original `manuscript <https://pubs.geoscienceworld.org/ssa/srl/article-abstract/94/5/2441/624404/TESLA-A-Tool-for-Automatic-Earthquake-Low?redirectedFrom=fulltext>`_.
  
 .. raw:: latex
 
