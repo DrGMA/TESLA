@@ -1,16 +1,6 @@
-.. figure:: _static/logo.png
-   :width: 15cm
-   :align: center
-   :alt: 
-
-.. raw:: html
-
-   <div style="margin-top:1cm;"></div>
-
-
-==========
+=====
 TESLA
-==========
+=====
 
 
 
