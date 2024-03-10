@@ -4,7 +4,7 @@
 
 ---
 [![Tesla Version](https://img.shields.io/badge/tesla-v1.0.0-green)](https://github.com/DrGMA/test_/tree/main?tab=readme-ov-file#documentation-and-references-)
-[![Read the Docs](https://img.shields.io/badge/read_the_manual-tesla_v1.0.0-blue)](https://tesla.readthedocs.io/en/latest/)
+[![Read the Docs](https://img.shields.io/badge/read_the_manual-tesla_v0.0.1-blue)](https://tesla.readthedocs.io/en/latest/)
 [![Cite the paper](https://img.shields.io/badge/cite_the_paper-DOI-red)](https://doi.org/10.1785/0220230033)
 [![Need Help? Ask Info!](https://img.shields.io/badge/need_help-ask_info%3F-yellow)](mailto:guidomaria.adinolfi@unito.it)
 
@@ -31,7 +31,7 @@ TESLA enhances low-frequency spectral level estimation by systematically selecti
 Clone the TESLA repository and follow the setup indications provided in the documentation. Detailed instructions will guide users through data preparation and the estimation of low-frequency spectral levels.
 
 ## Documentation and References 📚
-For complete documentation, updates, and examples, visit the [TESLA Documentation](https://github.com/your-repository/tesla). Find relevant research and papers in the documentation's references section.
+For complete documentation, updates, and examples, visit the [TESLA Documentation](https://tesla.readthedocs.io/en/latest/index.html). Find relevant research and papers in the documentation's references section.
 
 ### Key Reference 📖
 When using TESLA for your projects and research, please ensure to reference the following publication:
