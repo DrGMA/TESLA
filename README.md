@@ -40,7 +40,7 @@ When using TESLA for your projects and research, please ensure to reference the 
 
 ## Version Information 📅
 - **Version:** 0.0.1
-- **Last Updated:** February 12, 2024
+- **Last Updated:** March 10, 2024
 - **Author:** Guido Maria Adinolfi
 
 ## Copyright 📄
