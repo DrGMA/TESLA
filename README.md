@@ -6,7 +6,7 @@
 [![Tesla Version](https://img.shields.io/badge/tesla-v0.0.1-green)](https://github.com/DrGMA/test_/tree/main?tab=readme-ov-file#documentation-and-references-)
 [![Read the Docs](https://img.shields.io/badge/read_the_manual-tesla_v0.0.1-blue)](https://tesla.readthedocs.io/en/latest/)
 [![Cite the paper](https://img.shields.io/badge/cite_the_paper-DOI-red)](https://doi.org/10.1785/0220230033)
-[![Need Help? Ask Info!](https://img.shields.io/badge/need_help-ask_info%3F-yellow)](mailto:guidomaria.adinolfi@unito.it)
+[![Need Help? Ask Info!](https://img.shields.io/badge/need_help%3F-ask_info!-yellow)](mailto:guidomaria.adinolfi@unito.it)
 
 
 ## Overview 📜
